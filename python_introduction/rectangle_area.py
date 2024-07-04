@@ -1,6 +1,6 @@
 #Assign specific values to two variables, lenght and width 
 length = 10
-width = 5
+width = 6
 
 """Calculate the area of the rectangle using the formula
  (Area = length × width) and store the result in a
