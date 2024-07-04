@@ -2,7 +2,7 @@
 
 principal = 1000
 rate = 0.5
-time = 3
+time = 4
 
 """ Calculate the simple interest using the 
     formula provided and store the result in a variable named
