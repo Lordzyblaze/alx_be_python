@@ -1,6 +1,7 @@
 """
 This script will ask the user about the current weather
-conditions and provide clothing recommendations based on the input. This task aims to demonstrate the
+conditions and provide clothing recommendations based on the input.
+This task aims to demonstrate the
 use of if , elif , and else statements to make decisions in a program
 """
 
